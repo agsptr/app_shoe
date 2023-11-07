@@ -1,4 +1,3 @@
-import 'package:app_menu/detail_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:app_menu/main_menu.dart';
 
@@ -14,7 +13,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       title: 'Menu App',
       theme: ThemeData(),
-      home: DetailMenu(),
+      home: MainMenu(),
     );
   }
 }
