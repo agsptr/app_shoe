@@ -22,7 +22,7 @@ class ModelSepatu {
 
 var listModelSepatu = [
   ModelSepatu(
-    name: ' Nike Jordan 9092',
+    name: 'Nike Jordan 9092',
     merk: 'Nike',
     description:
         'Aside From The Look, There\'s A Reason These Trainers Will Become Your Everyday Go-to — The Durable Textile Upper And Cushioned Eva Midsole Are All About Those Long Days And Nights, Supporting Your Moves With Absolute Comfort.',
