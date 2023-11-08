@@ -25,4 +25,4 @@ flutter:
         - asset: fonts/Staatliches-Regular.ttf
     - family: Oxygen
       fonts:
-        - asset: fonts/Oxygen-Regular.ttf
+        - asset: fonts/Poppins-Regular.ttf
