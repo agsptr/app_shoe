@@ -51,7 +51,7 @@ class _DetailWebPageState extends State<DetailWebPage> {
         ),
         child: Center(
           child: SizedBox(
-            width: screenWidth <= 1200 ? 800 : 1080,
+            width: screenWidth <= 1080 ? 800 : 1080,
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
